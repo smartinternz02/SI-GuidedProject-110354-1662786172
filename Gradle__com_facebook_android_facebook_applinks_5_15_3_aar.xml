@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-applinks:5.15.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d83cdd738ce55d7675435177f91eabbb/jetified-facebook-applinks-5.15.3/res" />
+      <root url="file://$PROJECT_DIR$/../BankAppDemo/caches/transforms-3/9e8b8767ab70084387a4d4152aa8fff1/transformed/jetified-facebook-applinks-5.15.3/res" />
+      <root url="file://$PROJECT_DIR$/../BankAppDemo/caches/transforms-3/9e8b8767ab70084387a4d4152aa8fff1/transformed/jetified-facebook-applinks-5.15.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../BankAppDemo/caches/transforms-3/9e8b8767ab70084387a4d4152aa8fff1/transformed/jetified-facebook-applinks-5.15.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../BankAppDemo/caches/modules-2/files-2.1/com.facebook.android/facebook-applinks/5.15.3/9c2ed5df92615e080cedace105ef91c63bb8096b/facebook-applinks-5.15.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../BankAppDemo/caches/modules-2/files-2.1/com.facebook.android/facebook-applinks/5.15.3/cba5a2d1e42500067ad45ccaa0a815d1c5d3955/facebook-applinks-5.15.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
